@@ -3,13 +3,17 @@
 
 Projeto voltado à análise de dados sobre temas diversos, para o público em geral. 
 
+### Power BI Dashboards :
+
+</a>
+    <a href="https://www.behance.net/LRLeite">
+        <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+    </a>
+
 ### Contato :
 <div id="badges">
     <a href="https://www.linkedin.com/in/leandro-rafael-leite/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.behance.net/LRLeite">
-        <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-    </a>
+    
 </div>
 
