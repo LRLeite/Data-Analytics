@@ -1,7 +1,7 @@
 
 <div id="header" align="center"><h1>Data Analytics <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/></h1> 
 
-Projeto voltado à análise de dados sobre temas diversos, para o público em geral. 
+Projeto voltado à análise de dados sobre temas diversos. 
 
 ### Power BI Dashboards :
 
