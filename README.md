@@ -1,4 +1,4 @@
-# Portfólio de Projetos de Análise de Dados <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="35" height="35"/>
+# Portfólio de Projetos de Análise de Dados 
 
 Olá! Bem-vindo ao meu repositório de projetos de Análise de Dados e Business Intelligence. Aqui, você encontrará diversas análises que demonstram as minhas habilidades em transformar dados em insights. Cada projeto está contido na sua própria pasta e possui uma documentação detalhada.
 
@@ -24,3 +24,6 @@ Olá! Bem-vindo ao meu repositório de projetos de Análise de Dados e Business 
 - **Descrição:** Análise da evolução dos casos e óbitos por COVID-19 no Brasil e no mundo, com foco em visualizações de dados para entender o impacto da pandemia.
 - **Tecnologias:** Python, Pandas, Geopandas, Folium.
 - **[➡️ Ver Análise Completa](./Projeto%20COVID-19/)**
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="35" height="35"/>
