@@ -9,14 +9,14 @@ Olá! Bem-vindo ao meu repositório de projetos de Análise de Dados e Business 
 ### 🏆⚽ Análise Exploratória das Copas do Mundo
 - **Descrição:** Uma análise aprofundada sobre os dados históricos das Copas do Mundo da FIFA para identificar padrões, estatísticas de equipas e os maiores artilheiros.
 - **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
-- **[➡️ Ver Análise Completa](./Fifa_World_Cups.ipynb)**
+- **[➡️ Ver Análise Completa](./Análise%20Copas%20do%20Mundo%20FIFA/Fifa_World_Cups.ipynb)**
 
 ---
 
 ### 🎬 Análise de Dados de Filmes do IMDb
 - **Descrição:** Análise exploratória de um dataset do IMDb para descobrir tendências de géneros, correlações entre notas, orçamentos e receita.
 - **Tecnologias:** Python, Pandas, Plotly.
-- **[➡️ Ver Análise Completa](./IMDb.ipynb)**
+- **[➡️ Ver Análise Completa](./Projeto%20IMDb/IMDb.ipynb)**
 
 ---
 
