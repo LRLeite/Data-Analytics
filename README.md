@@ -6,7 +6,7 @@
 ## 🚀 Projetos
 
 ### 🏆⚽ Análise Exploratória das Copas do Mundo
-- **Descrição:** Uma análise aprofundada sobre os dados históricos das Copas do Mundo da FIFA para identificar padrões, estatísticas de equipas e os maiores artilheiros.
+- **Descrição:** Uma análise dos dados históricos das Copas do Mundo da FIFA.
 - **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
 - **[➡️ Ver Análise Completa](./Análise%20Copas%20do%20Mundo%20FIFA/Fifa_World_Cups.ipynb)**
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🎬 Análise de Dados de Filmes do IMDb
+### 🎬 Análise das Avaliações de Filmes e Séries, Segundo o IMDb
 - **Descrição:** Análise exploratória de um dataset do IMDb para descobrir tendências de géneros, correlações entre notas, orçamentos e receita.
 - **Tecnologias:** Python, Pandas, Plotly.
 - **[➡️ Ver Análise Completa](./Projeto%20IMDb/IMDb.ipynb)**
