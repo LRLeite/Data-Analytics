@@ -5,8 +5,8 @@
 
 ## 🚀 Projetos
 
-### 🏆⚽ Análise Exploratória das Copas do Mundo
-- **Descrição:** Uma análise dos dados históricos das Copas do Mundo da FIFA.
+### 🏆⚽ Análise Exploratória das Copas do Mundo FIFA
+- **Descrição:** Uma análise dos dados históricos das Copas do Mundo da FIFA, para identificar os campeões, número de participações de cada seleção, desclassificações na primeira fase da competição e a média de gols ao longo dos anos.
 - **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
 - **[➡️ Ver Análise Completa](./Análise%20Copas%20do%20Mundo%20FIFA/Fifa_World_Cups.ipynb)**
 
