@@ -1,6 +1,6 @@
 # Portfólio de Projetos de Análise de Dados <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
 
-<h4> Este repositório demonstra o processo de análise de dados, desde as etapas de ETL até a análise e visualização, para investigar e responder a problemas de negócio em cada um dos temas abordados. O objetivo é transformar dados brutos de diversos domínios em insights acionáveis e estratégicos, por meio do ecossistema Python.</h4>
+<h4> Este repositório reúne projetos de análise de dados aplicados a diferentes contextos, com o objetivo de transformar dados brutos em informações relevantes e acionáveis, utilizando o ecossistema Python. Cada projeto segue um pipeline completo de dados (end-to-end), abrangendo as etapas de extração, transformação e carga (ETL), análise exploratória, preparação dos dados e visualização.</h4>
 
 ## 🚀 Projetos
 
