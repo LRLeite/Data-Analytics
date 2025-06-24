@@ -10,14 +10,14 @@
 - **[➡️ Ver Análise Completa](./Análise%20Copas%20do%20Mundo%20FIFA/Fifa_World_Cups.ipynb)**
 
 <br>
-<br>
+
 
 ### 🦠 Análise de Dados da COVID-19
 - **Descrição:** Esta análise explora a evolução da pandemia de COVID-19 no Brasil e no mundo, com foco em casos confirmados, mortes e vacinação. Por meio dessa análise, é possivel verificar as tendências globais de casos e mortes, comparar a cobertura vacinal entre continentes e identificar os países com maior e menor cobertura vacinal.
 - **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
 - [**➡️ Ver Análise Completa**](./Projeto%20COVID-19/covid_19.ipynb)
 
----
+<br>
 
 ### 🎬 Análise das Avaliações de Filmes e Séries, Segundo o IMDb
 - **Descrição:** Análise exploratória de um dataset do IMDb para descobrir tendências de géneros, correlações entre notas, orçamentos e receita.
