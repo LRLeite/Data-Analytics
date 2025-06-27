@@ -24,5 +24,10 @@
 - **Tecnologias:** Python, Pandas, Plotly.
 - **[➡️ Ver Análise Completa](./Projeto%20IMDb/IMDb.ipynb)**
 
+<br>
 
+### 🔍 **Explorando Dados com SQL**
+* **Descrição:** Este projeto foca na aplicação da linguagem SQL para obter insights e realizar operações em bancos de dados. Utiliza dataset diversos para aplicar desde seleções básicas até consultas complexas, como agregações, junções e subconsultas.
+* **Tecnologias:** SQL (PostgreSQL), Python (Pandas, SQLAlchemy, google.colab.auth, google.cloud.secretmanager), Google Colab.
+* **[Visualizar projetos](https://github.com/LRLeite/Data-Analytics/tree/main/Explorando%20Dados%20com%20SQL)**
 
