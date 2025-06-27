@@ -12,12 +12,11 @@ Este projeto foi criado para a exploração de dados utilizando a linguagem SQL.
 
   * `pandas`: Essencial para carregar os resultados das consultas SQL em DataFrames e para manipulação e análise de dados.
 
-  * `sqlalchemy`: Para criar o motor de conexão com o banco de dados.
+  * `sqlalchemy`: Biblioteca Python que atua como uma API para interação com bancos de dados, facilitando a criação de motores de conexão.
 
   * `google.colab.auth`: Caso a autenticação no Google Colab seja necessária para acesso a serviços.
 
-  * `google.cloud.secretmanager`: Para gerenciar credenciais de forma segura, se aplicável.
+  * `google.cloud.secretmanager`: Biblioteca Python para interagir com a API do Google Cloud Secrets Manager, utilizada para gerenciar credenciais do banco de dados de forma segura.
 
 * **Banco de dados**: Por exemplo, `PostgreSQL`.
-
 * **Google Colab**: Ambiente de desenvolvimento para executar as consultas e apresentar os resultados.
