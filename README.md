@@ -1,6 +1,7 @@
-# Portfólio de Projetos de Análise de Dados <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+# Portfólio de Projetos de Análise de Dados <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
+          
 
-<h4> Este repositório reúne projetos de análise de dados aplicados a diferentes contextos, com o objetivo de transformar dados brutos em informações relevantes e acionáveis, utilizando o ecossistema Python. Cada projeto segue um pipeline completo de dados (end-to-end), abrangendo as etapas de extração, transformação e carga (ETL), análise exploratória, preparação dos dados e visualização.</h4>
+<h4> Este repositório reúne projetos de análise de dados aplicados a diferentes contextos, utilizando Python e SQL. Cada projeto segue um pipeline completo de dados (end-to-end), abrangendo as etapas de extração, transformação e carga (ETL), análise exploratória, preparação dos dados e visualização.</h4>
 
 ## 🚀 Projetos
 
@@ -21,7 +22,7 @@
 
 ### 🎬 Análise das Avaliações de Filmes e Séries, Segundo o IMDb
 - **Descrição:** Análise exploratória de um dataset do IMDb para descobrir tendências de géneros, correlações entre notas, orçamentos e receita.
-- **Tecnologias:** Python, Pandas, Plotly.
+- **Tecnologias:** Python, Pandas, Numpy, Matplotlib e Seaborn.
 - **[➡️ Ver Análise Completa](./Projeto%20IMDb/IMDb.ipynb)**
 
 <br>
